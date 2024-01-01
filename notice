@@ -7,15 +7,8 @@
 ** 자세한 내용은 빗썸 멤버십 페이지를 통해 확인.(https://www.bithumb.com/react/membership)
 ++++++ 현재 API 키 활성화가 좀 늦게 작동하는거 같아서 신규로 생성한 API 키는 잠시 후에 재시도 해주시기 바랍니다.
 
-[23-12-31 19:44:00]
-- 속도 제한이 좀 줄어든 것 같아서 8배속으로 수정
-
-[23-12-31 18:52:00]
-- 속도 제한이 좀 줄어든 것 같아서 4배속으로 수정
-
 [23-12-31]
 - API 사용량 제한 공지가 올라왔습니다. (https://feed.bithumb.com/notice/1644388?list_params=)
 - 속도 제한을 위해 최신 버전으로 재시작 해주세요.
-- 최신버전 다운로드: (https://github.com/arothy1/B_setting/delete/master/bithumb_bot%40release_0010-2.zip)
 
 copyright @ch.lee & @de.lim
